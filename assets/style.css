@@ -7,8 +7,9 @@ header {
 }
 
 #primoParagrafo {
-  background-color: yellow;
+  background-color: rgb(184, 184, 2);
   border-top: 3px solid orange;
+  padding: 0.5em;
 }
 
 main {
