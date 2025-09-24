@@ -10,3 +10,9 @@ header {
   background-color: yellow;
   border-top: 3px solid orange;
 }
+
+main {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
