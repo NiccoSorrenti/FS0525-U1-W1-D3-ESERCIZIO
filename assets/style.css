@@ -1,0 +1,12 @@
+header {
+  text-align: center;
+}
+
+.daCentrare {
+  text-align: center;
+}
+
+#primoParagrafo {
+  background-color: yellow;
+  border-top: 3px solid orange;
+}
